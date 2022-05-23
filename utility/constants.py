@@ -1,0 +1,1 @@
+NMC_URL = "http://www.nmc.org.np/searchPractitioner"
